@@ -23,3 +23,5 @@ int main() {
     cout << fixed << setprecision(2) << ans << '\n';
     return 0;
 }
+
+//abobas
