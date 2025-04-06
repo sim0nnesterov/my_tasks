@@ -25,7 +25,6 @@ struct Hashstr{
     }
 };
 
-
 int main() {
     string s;
     cin >> s;
